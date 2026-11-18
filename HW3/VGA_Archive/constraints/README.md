@@ -1,0 +1,1 @@
+`EGO_XZ7_VGA.xdc` is retained as a timing starter only. It has no complete verified I/O pin map. Use the HDMI project's `EGO_XZ7_HDMI.xdc` only for the matching HDMI top-level entity; do not mix constraints across projects.
